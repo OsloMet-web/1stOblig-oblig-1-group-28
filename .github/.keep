@@ -1,5 +1,12 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <title>DATA1200 (célia)</title>
+</head>
 
-<p> ceci est un titre </p>
-
-<h2> troisième titre</h2>
+<body>
+    <h1>First assignement</h1>
+    <p> Ce premier devoir a pour objectif de nous faire prendre en main les outils informatiques </p>
+    <h2>Deuxième assignement bidule</h2>
+</body>
+</html>
